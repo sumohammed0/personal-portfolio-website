@@ -7,7 +7,7 @@ import githubDark from '../../assets/github-dark.svg'
 import linkedinDark from '../../assets/linkedin-dark.svg'
 import linkedinLight from '../../assets/linkedin-light.svg'
 import profilephoto from '../../assets/profilephoto.jpg'
-import CV from '/Users/safamohammed/Documents/Safa_Mohammed_Resume.pdf'
+import CV from '../../assets/Safa_Mohammed_Resume.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 function Hero() {
